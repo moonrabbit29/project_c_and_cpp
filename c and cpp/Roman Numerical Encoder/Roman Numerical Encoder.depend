@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589095334 source:e:\fileperkuliahan\latihan program\c\roman numerical encoder\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588326459 source:e:\fileperkuliahan\latihan program\c\mentoringalpro (sorting counting)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588479885 source:e:\fileperkuliahan\latihan program\c\mentoring alpro (searching binary)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

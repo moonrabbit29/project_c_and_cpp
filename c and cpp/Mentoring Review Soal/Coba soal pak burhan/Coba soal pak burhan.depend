@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1588259826 source:e:\fileperkuliahan\latihan program\c\review soal\coba soal pak burhan\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1588477150 source:e:\fileperkuliahan\latihan program\c\mentoring review soal\coba soal pak burhan\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
